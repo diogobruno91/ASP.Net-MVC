@@ -1,6 +1,7 @@
 # ASP.Net-MVC na Prática 
 Video aula no Youtube [ clicando aqui](https://www.youtube.com/watch?v=VbA_JZJtKaY&list=PLE6C2832C9FF542A7&index=1)
-com Cleyton Ferrari.
+com Cleyton Ferrari <br>
+Nessas videos aulas será abordado conceitos e práticas MVC Utilizando o ASP.NET.
 
 
 
