@@ -1,0 +1,36 @@
+﻿@model Aula02.Models.Pessoa
+@{
+    ViewBag.Title = "Primeira Pagina!";
+}
+
+<h2>Inicio</h2>
+
+@using (Html.BeginForm("Lista", "Home", FormMethod.Post))
+{
+    <fieldset>
+        <legend>Pessoa</legend>
+        <div>
+            @Html.LabelFor(x=>x.PessoaId)
+        </div>
+        <div>
+            @Html.EditorFor(x=>x.PessoaId)
+        </div>
+
+        <div>
+            @Html.LabelFor(x => x.Nome)
+        </div>
+        <div>
+            @Html.EditorFor(x => x.Nome)
+        </div>
+
+        <div>
+            @Html.LabelFor(x => x.Twitter)
+        </div>
+        <div>
+            @Html.EditorFor(x => x.Twitter)
+        </div>
+
+        
+        <p><input type="submit" value="Enviar"/></p>
+    </fieldset>
+}

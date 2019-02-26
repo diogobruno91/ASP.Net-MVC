@@ -1,0 +1,27 @@
+﻿@model Aula02.Models.Pessoa
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista</h2>
+
+<div>
+    <b>@Html.LabelFor(x => x.PessoaId)</b>
+</div>
+    @Model.PessoaId
+<div>
+    <b>@Html.LabelFor(x => x.Nome)</b>
+</div>
+<div>
+    @Model.Nome
+</div>
+
+<div>
+    <b>@Html.LabelFor(x => x.Twitter)</b>
+</div>
+<div>
+    @Model.Twitter
+</div><br />
+
+@Html.ActionLink("Volta", "Index", "Home")
+
