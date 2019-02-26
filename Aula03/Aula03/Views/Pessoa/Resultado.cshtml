@@ -1,0 +1,47 @@
+﻿@model Aula03.Models.Pessoa
+@{
+    ViewBag.Title = "Lista dados da pessoa valida";
+}
+
+<h2>Lista os dados da Pessoa</h2>
+<fieldset>
+    <legend>Pessoa</legend>
+    <div class="display-label">
+        <b> @Html.DisplayNameFor(model => model.Nome) </b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model=>model.Nome)
+    </div>
+
+    <div class="display-label">
+        <b> @Html.DisplayNameFor(model => model.Observacao) </b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Observacao)
+    </div>
+
+    <div class="display-label">
+        <b> @Html.DisplayNameFor(model => model.Idade) </b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Idade)
+    </div>
+
+    <div class="display-label">
+        <b> @Html.DisplayNameFor(model => model.Email) </b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Email)
+    </div>
+
+    <div class="display-label">
+        <b> @Html.DisplayNameFor(model => model.Login) </b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Login)
+    </div>
+</fieldset><br />
+<p>
+    @Html.ActionLink("Voltar", "Index")
+</p>
+
