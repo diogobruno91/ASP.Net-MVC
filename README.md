@@ -1,6 +1,5 @@
 # ASP.Net-MVC na Prática 
-Video aula no Youtube: https://www.youtube.com/watch?v=VbA_JZJtKaY&list=PLE6C2832C9FF542A7&index=1
-18 de jun de 2012
+Video aula no Youtube [ clicando aqui](https://www.youtube.com/watch?v=VbA_JZJtKaY&list=PLE6C2832C9FF542A7&index=1)
 com Cleyton Ferrari.
 
 
