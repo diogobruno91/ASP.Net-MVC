@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Pagina Inicial";
+}
+
+<center><h2>Pagina Inicial</h2></center>
+<div class="row-fluid">
+    <div class="jumbotron">
+        <h1>Asp.Net MVC</h1>
+        <p>
+            Esta é uma série de vídeos sobre asp.net mvc, usando os novos recursos de mvc 4 
+        </p>
+        <p><a class="btn btn-primary btn-large">Saiba Mais</a></p>
+    </div>
+</div>
+
+@section rodape{
+    <p>Veja mais em @Html.ActionLink("Sobre", "Index", "Sobre")</p>
+}
