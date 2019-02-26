@@ -43,3 +43,12 @@ Nessas videos aulas será abordado conceitos e práticas MVC Utilizando o ASP.NE
 - Bundling
 - Minification
 ```
+
+* Aula 06
+```
+- Layout
+- Render Page
+- Render Section
+- Partial View
+- Twitter Bootstrap
+```
