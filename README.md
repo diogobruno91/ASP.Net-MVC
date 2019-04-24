@@ -52,3 +52,19 @@ Nessas videos aulas será abordado conceitos e práticas MVC Utilizando o ASP.NE
 - Partial View
 - Twitter Bootstrap
 ```
+
+* Aula 07
+```
+- Áreas
+- Criando controller com o mesmo nome
+```
+
+* Aula 08
+```
+- ADO .Net e ASP.Net MVC
+```
+
+* Aula 09
+```
+- Entity Framework e ASP.Net MVC
+```
