@@ -1,0 +1,14 @@
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Dominio\bin\Debug\Aula08.Dominio.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Dominio\bin\Debug\Aula08.Dominio.pdb
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Dominio\obj\Debug\Aula08.Dominio.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Dominio\obj\Debug\Aula08.Dominio.pdb
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\bin\Debug\Aula08.Dominio.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\bin\Debug\Aula08.Dominio.pdb
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\obj\Debug\Aula08.Dominio.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\obj\Debug\Aula08.Dominio.pdb
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\obj\Debug\Aula08.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\bin\Debug\Aula08.Dominio.dll.config
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula08.Dominio\bin\Debug\EntityFramework.SqlServer.xml

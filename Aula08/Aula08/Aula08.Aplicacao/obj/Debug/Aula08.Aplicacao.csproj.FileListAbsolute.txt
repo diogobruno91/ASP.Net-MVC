@@ -1,0 +1,9 @@
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\bin\Debug\Aula08.Aplicacao.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\bin\Debug\Aula08.Aplicacao.pdb
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\bin\Debug\Aula08.Dominio.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\bin\Debug\Aula08.Repositorio.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\bin\Debug\Aula08.Dominio.pdb
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\bin\Debug\Aula08.Repositorio.pdb
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\obj\Debug\Aula08.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\obj\Debug\Aula08.Aplicacao.dll
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula08\Aula08\Aula08.Aplicacao\obj\Debug\Aula08.Aplicacao.pdb

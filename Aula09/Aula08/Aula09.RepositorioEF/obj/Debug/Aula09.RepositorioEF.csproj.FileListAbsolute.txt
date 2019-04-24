@@ -1,0 +1,1 @@
+C:\Users\dbruno\Desktop\estudo\ASP.Net\Aula09\Aula08\Aula09.RepositorioEF\obj\Debug\Aula09.RepositorioEF.csprojResolveAssemblyReference.cache
